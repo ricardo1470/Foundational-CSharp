@@ -1,0 +1,15 @@
+/home/ricardo1470/Foundational-CSharp/HelloWorld/bin/Debug/net8.0/HelloWorld
+/home/ricardo1470/Foundational-CSharp/HelloWorld/bin/Debug/net8.0/HelloWorld.deps.json
+/home/ricardo1470/Foundational-CSharp/HelloWorld/bin/Debug/net8.0/HelloWorld.runtimeconfig.json
+/home/ricardo1470/Foundational-CSharp/HelloWorld/bin/Debug/net8.0/HelloWorld.dll
+/home/ricardo1470/Foundational-CSharp/HelloWorld/bin/Debug/net8.0/HelloWorld.pdb
+/home/ricardo1470/Foundational-CSharp/HelloWorld/obj/Debug/net8.0/HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+/home/ricardo1470/Foundational-CSharp/HelloWorld/obj/Debug/net8.0/HelloWorld.AssemblyInfoInputs.cache
+/home/ricardo1470/Foundational-CSharp/HelloWorld/obj/Debug/net8.0/HelloWorld.AssemblyInfo.cs
+/home/ricardo1470/Foundational-CSharp/HelloWorld/obj/Debug/net8.0/HelloWorld.csproj.CoreCompileInputs.cache
+/home/ricardo1470/Foundational-CSharp/HelloWorld/obj/Debug/net8.0/HelloWorld.sourcelink.json
+/home/ricardo1470/Foundational-CSharp/HelloWorld/obj/Debug/net8.0/HelloWorld.dll
+/home/ricardo1470/Foundational-CSharp/HelloWorld/obj/Debug/net8.0/refint/HelloWorld.dll
+/home/ricardo1470/Foundational-CSharp/HelloWorld/obj/Debug/net8.0/HelloWorld.pdb
+/home/ricardo1470/Foundational-CSharp/HelloWorld/obj/Debug/net8.0/HelloWorld.genruntimeconfig.cache
+/home/ricardo1470/Foundational-CSharp/HelloWorld/obj/Debug/net8.0/ref/HelloWorld.dll
